@@ -29,6 +29,11 @@ stopwatch-app/
 ├── style.css # Styling rules
 ├── script.js # Stopwatch logic
 └── README.md # Project documentation
+
+![Screenshot (196)](https://github.com/user-attachments/assets/8c2f9213-cf54-4854-8f39-d1930764364a)
+
+
+
 ---
 ## 🚀 Getting Started
 
